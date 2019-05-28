@@ -1,0 +1,8 @@
+E:\PMToDelete\CS\VirtualCashCard\VirtualCashCard\VirtualCashCard.Tests\bin\Debug\VirtualCashCard.Tests.dll
+E:\PMToDelete\CS\VirtualCashCard\VirtualCashCard\VirtualCashCard.Tests\bin\Debug\VirtualCashCard.Tests.pdb
+E:\PMToDelete\CS\VirtualCashCard\VirtualCashCard\VirtualCashCard.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\PMToDelete\CS\VirtualCashCard\VirtualCashCard\VirtualCashCard.Tests\bin\Debug\VirtualCashCard.dll
+E:\PMToDelete\CS\VirtualCashCard\VirtualCashCard\VirtualCashCard.Tests\bin\Debug\VirtualCashCard.pdb
+E:\PMToDelete\CS\VirtualCashCard\VirtualCashCard\VirtualCashCard.Tests\obj\Debug\VirtualCashCard.Tests.csprojResolveAssemblyReference.cache
+E:\PMToDelete\CS\VirtualCashCard\VirtualCashCard\VirtualCashCard.Tests\obj\Debug\VirtualCashCard.Tests.dll
+E:\PMToDelete\CS\VirtualCashCard\VirtualCashCard\VirtualCashCard.Tests\obj\Debug\VirtualCashCard.Tests.pdb

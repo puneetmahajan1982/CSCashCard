@@ -1,0 +1,4 @@
+E:\PMToDelete\CS\VirtualCashCard\VirtualCashCard\VirtualCashCard\bin\Debug\VirtualCashCard.dll
+E:\PMToDelete\CS\VirtualCashCard\VirtualCashCard\VirtualCashCard\bin\Debug\VirtualCashCard.pdb
+E:\PMToDelete\CS\VirtualCashCard\VirtualCashCard\VirtualCashCard\obj\Debug\VirtualCashCard.dll
+E:\PMToDelete\CS\VirtualCashCard\VirtualCashCard\VirtualCashCard\obj\Debug\VirtualCashCard.pdb
